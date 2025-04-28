@@ -28,7 +28,7 @@ This repository contains a **Streamlit**-based **Retrieval-Augmented Generation 
 1. **Clone the repository**:
     ```bash
     git clone https://github.com/explore-with-yasir/rag_ai_agents_coworkers.git
-    cd your-repo-name
+    cd rag_ai_agents_coworkers
     ```
 
 2. **Set up a virtual environment** (optional but recommended):
