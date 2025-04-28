@@ -144,4 +144,4 @@ from qdrant_client.models import Distance, VectorParams
 
 ---
 
-## ✅ Written by [Yasir Siddique](www.yasirsiddique.com). My [Linkedin](www.linkedin.com/in/yasir-sd)
+## ✅ Written by [Yasir Siddique](https://www.yasirsiddique.com). My [Linkedin](https://www.linkedin.com/in/yasir-sd)
